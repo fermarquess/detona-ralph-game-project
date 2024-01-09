@@ -46,5 +46,20 @@
     margin-top: 1rem;
 }
 
+.reset{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;  
+    
+}
+
+button{
+    font-size: 1.1em;
+    padding: 15px 20px;
+    color: #fff;
+    background-color: #000;
+}
+
 
 /* #7fffd4 */
